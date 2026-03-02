@@ -62,6 +62,7 @@
 *.symtypes
 *.tab.[ch]
 *.tar
+*.tmp
 *.xz
 *.zst
 Module.symvers
